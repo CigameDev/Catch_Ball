@@ -40,3 +40,4 @@ public class Ball : MonoBehaviour
         }
     }
 }
+//them linh tinh 1 cai gi do
